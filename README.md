@@ -1,12 +1,10 @@
 ![image](https://github.com/user-attachments/assets/42170e7c-d912-4fe9-811c-b63a3a9917e2)
 
 
-
-
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
-
+yes
 First, run the development server:
 
 ```bash
